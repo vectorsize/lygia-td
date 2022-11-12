@@ -29,6 +29,8 @@ as opposed to
 #include "filter/gaussianBlur.glsl"
 ```
 
+![lygia](https://user-images.githubusercontent.com/1661889/201487441-4f8f867a-d75a-42f8-a1a6-d38002bd4d22.jpg)
+
 ## Motivation
 
 Shortly after the original library's release `v1.0.0` a TouchDesigner version of it was published [here](https://derivative.ca/community-post/asset/lygia-touchdesginer/66804) by [LeithBA](https://github.com/LeithBA).
