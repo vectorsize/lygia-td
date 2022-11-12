@@ -1,6 +1,6 @@
 # LygiaTD
 
-This is a native port of [LYGIA Shader Library](https://github.com/patriciogonzalezvivo/lygia) by [Patricio Gonzalez Vivo](https://github.com/patriciogonzalezvivo)'s.
+This is a TouchDesigner native port of [LYGIA Shader Library](https://github.com/patriciogonzalezvivo/lygia) by [Patricio Gonzalez Vivo](https://github.com/patriciogonzalezvivo)'s.
 
 ## Description
 
