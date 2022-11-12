@@ -43,3 +43,11 @@ For those reasons I decided to bundle a native version of the library.
 
 The whole library is packaged by cloning the upstream source and parsing all the files, updating the include paths and populating the guts of several `textDAT`s placed in their corresponding project hierarchy.  
 The parsing script might be released opensource if there is enough interest.
+
+## LYGIA License 
+
+LYGIA is dual-licensed under [the Prosperity License](https://prosperitylicense.com/versions/3.0.0) and the [Patron License](https://lygia.xyz/license) for [sponsors](https://github.com/sponsors/patriciogonzalezvivo) and [contributors](https://github.com/patriciogonzalezvivo/lygia/graphs/contributors).
+
+[Sponsors](https://github.com/sponsors/patriciogonzalezvivo) and [contributors](https://github.com/patriciogonzalezvivo/lygia/graphs/contributors) are automatically added to the [Patron License](https://lygia.xyz/license) and they can ignore any non-commercial rule of [the Prosperity Licensed](https://prosperitylicense.com/versions/3.0.0) software. 
+
+Comming soon will be possible to get a permanent comercial license hook to a single and specific version of LYGIA.
