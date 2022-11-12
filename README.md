@@ -4,7 +4,7 @@ This is a TouchDesigner native port of [LYGIA Shader Library](https://github.com
 
 ## Description
 
-This library is a statically built version of the library ~ and hence no internet connection is needed for file resolution during runtime.  
+This repository is a statically built version of the library ~ and hence no internet connection is needed for file resolution during runtime.  
 This version uses TouchDesigner's native include resolution mechanism for all the library's `#include`.  
 The provided `.tox` file bundles all the files from the original libraries with modified paths and compliant names for it to work inside TouchDesigner.
 
