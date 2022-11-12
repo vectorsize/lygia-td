@@ -41,5 +41,5 @@ For those reasons I decided to bundle a native version of the library.
 
 ## Details
 
-The whole library is packaged by cloning the upstream source and parsing all the files, updating the include paths and pipulating the guts of several `textDAT`s placed in their corresponding project hierarchy.  
+The whole library is packaged by cloning the upstream source and parsing all the files, updating the include paths and populating the guts of several `textDAT`s placed in their corresponding project hierarchy.  
 The parsing script might be released opensource if there is enough interest.
