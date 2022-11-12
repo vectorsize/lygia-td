@@ -1,4 +1,4 @@
-# Ligya TD
+# Lygia TD
 
 This is a native port of [LYGIA Shader Library](https://github.com/patriciogonzalezvivo/lygia) by [Patricio Gonzalez Vivo](https://github.com/patriciogonzalezvivo)'s.
 
