@@ -28,6 +28,7 @@ as opposed to
 ```
 #include "filter/gaussianBlur.glsl"
 ```
+> see attached figure.
 
 ![lygia](https://user-images.githubusercontent.com/1661889/201487441-4f8f867a-d75a-42f8-a1a6-d38002bd4d22.jpg)
 
