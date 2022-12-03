@@ -37,7 +37,7 @@ as opposed to
 
 > see attached figure.
 
-![lygia](https://user-images.githubusercontent.com/1661889/201487441-4f8f867a-d75a-42f8-a1a6-d38002bd4d22.jpg)
+![lygia](https://user-images.githubusercontent.com/1661889/205454310-461a231c-77d7-4dc5-b4c2-53b855269a75.jpg)
 
 ## Motivation
 
