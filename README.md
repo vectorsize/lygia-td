@@ -10,7 +10,7 @@ The provided `.tox` file bundles all the files from the original libraries with 
 
 ## Versioning
 
-> current version is `v.1.1.0`
+> current version is `v.1.1.6`
 
 This port will include static snapshots of the upstream repository and will be updated on every release porviding matching versions for each release.
 
